@@ -1,5 +1,7 @@
 /* This is a simple Java program. 
 FileName : "HelloWorld.java". */
+import java.util.*;
+
 class HelloWorld 
 { 
 	// Your program begins with a call to main(). 
